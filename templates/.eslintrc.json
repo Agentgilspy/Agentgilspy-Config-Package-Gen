@@ -8,7 +8,14 @@
     "consistent-return": "off",
     "no-restricted-syntax": "off",
     "no-console": "off",
-    "no-mixed-requires" : "warn",
-    "global-require" : "warn"
+    "no-mixed-requires": "warn",
+    "global-require": "off",
+    "class-methods-use-this": "off",
+    "import/no-dynamic-require": "off",
+    "no-param-reassign": "off",
+    "prefer-const": "warn",
+    "prefer-destructuring": "warn",
+    "no-plusplus": "off",
+    "no-await-in-loop": "off"
   }
 }
