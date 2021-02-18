@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "cpg": "index.js"
+    "cpg": "index.js",
+    "cpg --dir" : "Commands/openmoduledir.js"
   },
   "scripts": {},
   "keywords": [],
