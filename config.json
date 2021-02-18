@@ -1,0 +1,10 @@
+{
+    "packages" :
+     [
+        "eslint",
+        "eslint-config-prettier",
+        "eslint-plugin-prettier",
+        "prettier",
+        "discord.js"
+    ]
+}

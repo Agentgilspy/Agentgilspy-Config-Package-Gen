@@ -1,0 +1,14 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-unused-vars": "off",
+    "no-process-exit": "off",
+    "object-shorthand": "off",
+    "consistent-return": "off",
+    "no-restricted-syntax": "off",
+    "no-console": "off",
+    "no-mixed-requires" : "warn",
+    "global-require" : "warn"
+  }
+}
