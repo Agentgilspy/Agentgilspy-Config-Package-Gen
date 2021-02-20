@@ -16,7 +16,14 @@
   },
   "readme": "https://github.com/Agentgilspy/Agentgilspy-Config-Package-Gen/blob/main/readme.md",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "config",
+    "package",
+    "template",
+    "generator",
+    "command line",
+    "cli tool"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
