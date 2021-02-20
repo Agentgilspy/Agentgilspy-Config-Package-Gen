@@ -81,6 +81,8 @@ const onCancel = () => {
           .catch((err) => console.error(err))
       }
     }
+
+    console.log(`${logSymbols.success} Done`)
     
 
     
