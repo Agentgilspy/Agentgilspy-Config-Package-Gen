@@ -12,7 +12,7 @@ A simple CLI Tool to generate templates download dependencies with one command
  - Install the package using `npm install -g agentgilspy-config-package-gen`
 
  ### Setup
-- To find the config file run insert cool code block  rum `cpgdir`
+- To find the config file run `cpgdir`
 
 - You can edit the packages to install in the config.json and add your own Templates in the `templates` Folder
 
