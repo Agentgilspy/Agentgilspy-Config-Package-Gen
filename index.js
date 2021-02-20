@@ -11,7 +11,7 @@ const command = `npm i -D ${packages.join(' ')} && npx install-peerdeps --dev es
 
 const files = fs.readdirSync(require.main.path)
 
-if (files.includes('package.json')) {
+if (!files.includes('package.json')) {
   console.log(`${logSymbols.error} No package.json file found \n${logSymbols.info} Run npm init -y to generate one`)
   return process.exit();  
 }
